@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Bernie.com</title>
+    </head>
+<body>
+   <img src="i>
+  <p></p> 
+  <p></p>
+</body>
+</html>
